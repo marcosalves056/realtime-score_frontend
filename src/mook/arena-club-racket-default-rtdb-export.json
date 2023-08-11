@@ -1,0 +1,69 @@
+{
+  "ACR": [
+    null,
+    {
+      "dupla1_1": "KEILA / MAIA",
+      "dupla2_1": "MARIA / KOGA",
+      "estado": "Encerrado",
+      "game1_1": 6,
+      "game1_2": "",
+      "game1_3": "",
+      "game2_1": 4,
+      "game2_2": "",
+      "game2_3": "",
+      "local_1": "Quadra#1",
+      "mod_cat_1": "DFC",
+      "pontos1_1": 0,
+      "pontos2_1": 0,
+      "rodada_1": "Final"
+    },
+    {
+      "dupla1_1": "John / Paul",
+      "dupla2_1": "Richard / Morgan",
+      "estado": "Encerrado",
+      "game1_1": 3,
+      "game1_2": "",
+      "game1_3": "",
+      "game2_1": 6,
+      "game2_2": "",
+      "game2_3": "",
+      "local_1": "Quadra#2",
+      "mod_cat_1": "DMA",
+      "pontos1_1": 0,
+      "pontos2_1": 0,
+      "rodada_1": "QF"
+    },
+    {
+      "dupla1_1": "PC / MJ",
+      "dupla2_1": "CL / BL",
+      "estado": "Encerrado",
+      "game1_1": 2,
+      "game1_2": "",
+      "game1_3": "",
+      "game2_1": 6,
+      "game2_2": "",
+      "game2_3": "",
+      "local_1": "Quadra#3",
+      "mod_cat_1": "DXB",
+      "pontos1_1": 0,
+      "pontos2_1": 0,
+      "rodada_1": "Quartas Final"
+    },
+    {
+      "dupla1_1": "CRUZ / MAIA",
+      "dupla2_1": "MORI / KOGA",
+      "estado": "Encerrado",
+      "game1_1": 7,
+      "game1_2": "",
+      "game1_3": "",
+      "game2_1": 6,
+      "game2_2": "",
+      "game2_3": "",
+      "local_1": "Quadra#4",
+      "mod_cat_1": "DFB",
+      "pontos1_1": 0,
+      "pontos2_1": 0,
+      "rodada_1": "Semi-Final"
+    }
+  ]
+}

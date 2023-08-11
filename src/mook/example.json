@@ -1,0 +1,156 @@
+{
+  "dados": [
+    {
+      "esporte": "Beach Tennis",
+      "entidades": [
+        {
+          "nome_entidade": "ACR",
+          "torneios": [
+            {
+              "nome_torneio": "2o Open BT",
+              "quadras": [
+                {
+                  "quadra": "Quadra#1",
+                  "categoria": "DFC",
+                  "rodada": "Final",
+                  "jogador1": "KEILA / MAIA",
+                  "jogador2": "MARIA / KOGA",
+                  "jogador3": "",
+                  "jogador4": "",
+                  "estado": "Jogando",
+                  "pontos": {
+                    "jogador1": 15,
+                    "jogador2": 30
+                  },
+                  "games": [
+                    {
+                      "jogador1": 6,
+                      "jogador2": 4
+                    },
+                    {
+                      "jogador1": 4,
+                      "jogador2": 6
+                    },
+                    {
+                      "jogador1": 5,
+                      "jogador2": 5
+                    }
+                  ]
+                },
+                {
+                  "quadra": "Quadra#1",
+                  "categoria": "DFC",
+                  "rodada": "Final",
+                  "jogador1": "KEILA / MAIA",
+                  "jogador2": "MARIA / KOGA",
+                  "jogador3": "",
+                  "jogador4": "",
+                  "estado": "Jogando",
+                  "pontos": {
+                    "jogador1": 15,
+                    "jogador2": 30
+                  },
+                  "games": [
+                    {
+                      "jogador1": 6,
+                      "jogador2": 4
+                    },
+                    {
+                      "jogador1": 4,
+                      "jogador2": 6
+                    },
+                    {
+                      "jogador1": 5,
+                      "jogador2": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome_entidade": "Nippon",
+          "torneios": [
+            {
+              "nome_torneio": "Nippon Open",
+              "quadras": [
+                {
+                  "quadra": "Quadra#1",
+                  "categoria": "DFC",
+                  "rodada": "Final",
+                  "jogador1": "KEILA / MAIA",
+                  "jogador2": "MARIA / KOGA",
+                  "jogador3": "",
+                  "jogador4": "",
+                  "estado": "Jogando",
+                  "pontos": {
+                    "jogador1": 15,
+                    "jogador2": 30
+                  },
+                  "games": [
+                    {
+                      "jogador1": 6,
+                      "jogador2": 4
+                    },
+                    {
+                      "jogador1": 4,
+                      "jogador2": 6
+                    },
+                    {
+                      "jogador1": 5,
+                      "jogador2": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "esporte": "Badminton",
+      "entidades": [
+        {
+          "nome_entidade": "Bunka SBC",
+          "torneios": [
+            {
+              "nome_torneio": "Copa Bunka",
+              "quadras": [
+                {
+                  "quadra": "Quadra#1",
+                  "categoria": "DFC",
+                  "rodada": "Final",
+                  "jogador1": "KEILA / MAIA",
+                  "jogador2": "MARIA / KOGA",
+                  "jogador3": "",
+                  "jogador4": "",
+                  "estado": "Jogando",
+                  "pontos": {
+                    "jogador1": 15,
+                    "jogador2": 30
+                  },
+                  "games": [
+                    {
+                      "jogador1": 6,
+                      "jogador2": 4
+                    },
+                    {
+                      "jogador1": 4,
+                      "jogador2": 6
+                    },
+                    {
+                      "jogador1": 5,
+                      "jogador2": 5
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
